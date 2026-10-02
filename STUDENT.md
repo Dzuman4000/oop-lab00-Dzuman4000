@@ -19,10 +19,10 @@ Hello from Java! author: Dzuman4000
 ```
 
 ## Błąd i poprawka (zadanie 5)
-- Krótki fragment komunikatu błędu i numer linii: ...
-- Przyczyna oraz sposób naprawy: ...
-- Commit z błędem (SHA lub link): ...
-- Czy Actions pokazały błąd, a po naprawie sukces? ...
+- Krótki fragment komunikatu błędu i numer linii: error: expected ';' before 'return' linia 5
+- Przyczyna oraz sposób naprawy: brak średnika, dodanie średnika
+- Commit z błędem (SHA lub link): https://github.com/Dzuman4000/oop-lab00-Dzuman4000/commit/383438d56252f4214b84c23058a19607d8dd5780
+- Czy Actions pokazały błąd, a po naprawie sukces? Tak
 
 ## Krótkie odpowiedzi
 1. Co różni commit od push? Commit zapisuje zmiany lokalnie w historii repozytorium, a push wysyła lokalne commity do zdalnego repozytorium.
